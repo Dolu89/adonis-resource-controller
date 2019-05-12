@@ -1,5 +1,5 @@
 {
-  "name": "adonis-resource-controller",
+  "name": "@dolu/adonis-resource-controller",
   "version": "0.4.0",
   "description": "Restful resource controller for AdonisJs",
   "main": "index.js",
