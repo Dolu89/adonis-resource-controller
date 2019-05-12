@@ -20,7 +20,5 @@
     "url": "https://github.com/wxs77577/adonis-resource-controller/issues"
   },
   "homepage": "https://github.com/wxs77577/adonis-resource-controller#readme",
-  "dependencies": {
-    "lodash": "^4.17.10"
-  }
+  "dependencies": {}
 }
