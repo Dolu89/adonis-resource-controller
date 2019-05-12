@@ -11,7 +11,7 @@ Restful resource controller for AdonisJs
   ```
 1. Install 
     ```bash
-    npm i -S adonis-resource-controller
+    npm i -S @dolu/adonis-resource-controller
     ```
 1. Make a controller: `/app/Controllers/Http/ResourceController.js`
     ```javascript
