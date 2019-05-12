@@ -15,7 +15,7 @@ Restful resource controller for AdonisJs
     ```
 1. Make a controller: `/app/Controllers/Http/ResourceController.js`
     ```javascript
-    const BaseController = require('adonis-resource-controller')
+    const BaseController = require('@dolu/adonis-resource-controller')
 
     module.exports = class ResourceController extends BaseController {
 
